@@ -16,6 +16,10 @@ pkg install git
 
 pkg install python3
 
+**linux**
+
+sudo apt-get python
+
 2. **Установка репозитория**
 
 git clone https://github.com/EndyCat/EndyBomb-er
