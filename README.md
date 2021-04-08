@@ -32,7 +32,7 @@ cd C:\Path-to-director или cd(для termux)
 
 cd EndyBomb-er  
 
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 3. **Запуск**
 ```sh
